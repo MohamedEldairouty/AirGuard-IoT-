@@ -10,7 +10,7 @@
 
 ## 🧠 Overview
 
-AirGuard is a smart air quality monitoring and response system that:
+AirGuard is an intellegent air quality monitoring and response system that:
 - 🧪 Measures **temperature**, **humidity**, **pressure**, **gas resistance**, **altitude**, and **IAQ** using a BME680 sensor
 - 📟 Displays readings on an OLED screen
 - 🌐 Sends data via **MQTT over TLS** to a Node.js server connected to EMQX Broker
